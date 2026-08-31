@@ -1,0 +1,5 @@
+.row-critical{background:rgba(239,68,68,.05);}
+.mini-table{width:100%;border-collapse:collapse;}
+.mini-table td{padding:8px 4px;border-bottom:1px solid var(--border);font-size:13px;}
+.mini-table tr:last-child td{border-bottom:none;}
+canvas{max-width:100%;}
